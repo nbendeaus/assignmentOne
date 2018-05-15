@@ -1,0 +1,9 @@
+h3 {
+  color: dodgerblue;
+}
+
+.alert {
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
